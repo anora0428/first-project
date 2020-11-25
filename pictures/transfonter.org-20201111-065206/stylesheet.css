@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('AvenirNextCyr-Medium.eot');
+    src: url('AvenirNextCyr-Medium.eot?#iefix') format('embedded-opentype'),
+        url('AvenirNextCyr-Medium.woff') format('woff'),
+        url('AvenirNextCyr-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
